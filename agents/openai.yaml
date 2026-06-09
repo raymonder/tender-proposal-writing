@@ -1,0 +1,7 @@
+interface:
+  display_name: "Tender Proposal Writing"
+  short_description: "把 RFP 和招标资料整理成正式投标方案"
+  default_prompt: "Use $tender-proposal-writing to draft a tender proposal section from the provided RFP requirements and company materials."
+
+policy:
+  allow_implicit_invocation: true
